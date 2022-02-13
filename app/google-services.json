@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "203903418546",
+    "firebase_url": "https://sensor-application-21d15-default-rtdb.firebaseio.com",
+    "project_id": "sensor-application-21d15",
+    "storage_bucket": "sensor-application-21d15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203903418546:android:4c488aa8a391c68c4349ab",
+        "android_client_info": {
+          "package_name": "com.example.mobilesensorapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "203903418546-bpoe071ieafm0j45a4rksr234q2tn62n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjgcV69VrjUgiRUrWzUGEx074k_XfE-QY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "203903418546-bpoe071ieafm0j45a4rksr234q2tn62n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203903418546:android:d911e6f97fcef4624349ab",
+        "android_client_info": {
+          "package_name": "com.example.smartwatchsensorapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "203903418546-bpoe071ieafm0j45a4rksr234q2tn62n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjgcV69VrjUgiRUrWzUGEx074k_XfE-QY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "203903418546-bpoe071ieafm0j45a4rksr234q2tn62n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
